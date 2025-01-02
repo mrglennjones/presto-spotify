@@ -19,5 +19,6 @@ CLIENT_SECRET = ''
 REDIRECT_URI = ''
 ACCESS_TOKEN = ''
 ```
+- insert an sd card, the cover images and token json file is saved there.
 - on initilisation the app will ask for your token which lasts for 1hr then needs to be refreshed.
 - Visit the link provided in thonny then copy/paste the code found in your browser address bar: https://open.spotify.com/?code=''

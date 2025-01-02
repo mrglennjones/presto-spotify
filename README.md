@@ -1,5 +1,5 @@
 # presto-spotify
-display your now Spotify playing song with cover image, time elapsed and progress bar
+display your Spotify 'now playing' song along with the cover image, time elapsed and progress bar
 
 ![1000021093](https://github.com/user-attachments/assets/833cc663-48a5-45fb-b680-1c58ec532126)
 

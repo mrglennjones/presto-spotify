@@ -1,6 +1,8 @@
 # presto-spotify
 display your now Spotify playing song with cover image, time elapsed and progress bar
 
+### this is very beta and just a proof of concept
+
 ## guide
 - goto https://developer.spotify.com/dashboard and create an app, your api info will be available there to copy to your secrets.py
 - create secrets.py with:-
